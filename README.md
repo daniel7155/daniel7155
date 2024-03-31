@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daniel7155
+👋 Hi, I’m @daniel7155
 
 <!---
 daniel7155/daniel7155 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
